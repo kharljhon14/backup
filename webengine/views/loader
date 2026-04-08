@@ -285,6 +285,7 @@
   </div>
   
   <div class="d-none header-main-container align-items-center justify-content-center mx-auto">
+    <p>THis is from the second branch</p>
     {{include components/header }}
     {{include components/header-donate-modal}}
   </div>
