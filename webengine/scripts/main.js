@@ -36,20 +36,20 @@ function loadGoogleMapsAPI() {
   let apiKey = '';
   switch (cookieManager.get(cookieKeys.tealiumprofile)) {
     case 'easternterritory':
-      apiKey = 'AIzaSyBbDPRYs_8-jC4yMXlFhHgzs-L8sKE1DQg';
+      apiKey = 'a22';
       break;
     case 'centralterritory':
-      apiKey = 'AIzaSyB7OZh7TT1Tdw1QgEaeoAa21ygI7woeJ8Y';
+      apiKey = 'asd';
       break;
     case 'westernterritory':
-      apiKey = 'AIzaSyD_rheB8XGZMGo6GQBjCGOjkUSIef4zo4g';
+      apiKey = 'asd';
       break;
     case 'southernterritory':
-      apiKey = 'AIzaSyDoUdPepg4tD2w4dqr4akWNQhp-i9edQCc';
+      apiKey = 'asd';
       break;
 
     default:
-      apiKey = 'AIzaSyCDt9Xkd1uzYFlMuauhWdZW4XWCmYcA3mU';
+      apiKey = 'sasd';
       break;
   }
   script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&libraries=places,geometry,marker&callback=onGoogleMapsLoaded`;
