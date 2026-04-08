@@ -1,0 +1,494 @@
+<div class="pvlRoot">
+	
+                <section id="Carousel-8a80806d863be43201865b9ad98703fc" class="migration-component py-5">
+                    <div id="carousel-8a80806d863be43201865b9ad98703fc" class="carousel slide" data-bs-ride="carousel" style="position:relative; z-index:0;">
+                        <div class="carousel-inner rounded overflow-hidden" style="position:relative; z-index:1;">
+                                
+            <div class="carousel-item active">
+                <div class="position-relative d-none d-md-block w-100" style="aspect-ratio: 1300/508; overflow: hidden;"><img class="slide-thumbnail" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2ee886f7-9b27-4a0b-a38d-f817ee4b4c28_Potomac+July23+Web+Banner+Back+To+School+1300x508+Blank.jpg" alt="2025 After-School Program" style="width:100%; height:100%; object-fit:cover;" loading="lazy" /><div class="bg-photo-overlay bg-opacity-60" style="position: absolute; inset: 0; z-index: 0; pointer-events: none;"></div></div><div class="position-relative d-block d-md-none w-100" style="aspect-ratio: 500/425; overflow: hidden;"><img class="slide-thumbnail" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2ee886f7-9b27-4a0b-a38d-f817ee4b4c28_Potomac+July23+Web+Banner+Back+To+School+1300x508+Blank.jpg" alt="2025 After-School Program" style="width:100%; height:100%; object-fit:cover;" loading="lazy" /><div class="bg-photo-overlay bg-opacity-60" style="position: absolute; inset: 0; z-index: 0; pointer-events: none;"></div></div>
+                
+                    <div class="carousel-caption" style="z-index:2;">
+                        <div class="text-end" style="position:relative; z-index:3;">
+                            <h5 class="carousel-title mb-2">2025 After-School Program</h5>
+                            <p class="carousel-subtitle mb-3">Engage. Inspire. Empower.<br/>Give your child a safe place to belong. <br/></p>
+                            <div><a href="https://online.traxsolutions.com/southernusasalvationarmy/richmond#/dashboard" class="btn btn-primary me-2">REGISTER TODAY</a></div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+
+            <div class="carousel-item">
+                <div class="position-relative d-none d-md-block w-100" style="aspect-ratio: 1300/508; overflow: hidden;"><img class="slide-thumbnail" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/f2dcc905-0f17-47f3-aa4e-3761a0fd1a47_288668554_10224619911663227_1242317338648674226_n.jpg" alt="The Red Shield Youth Center is a place for your kids." style="width:100%; height:100%; object-fit:cover;" loading="lazy" /><div class="bg-photo-overlay bg-opacity-60" style="position: absolute; inset: 0; z-index: 0; pointer-events: none;"></div></div><div class="position-relative d-block d-md-none w-100" style="aspect-ratio: 500/425; overflow: hidden;"><img class="slide-thumbnail" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/f2dcc905-0f17-47f3-aa4e-3761a0fd1a47_288668554_10224619911663227_1242317338648674226_n.jpg" alt="The Red Shield Youth Center is a place for your kids." style="width:100%; height:100%; object-fit:cover;" loading="lazy" /><div class="bg-photo-overlay bg-opacity-60" style="position: absolute; inset: 0; z-index: 0; pointer-events: none;"></div></div>
+                
+                    <div class="carousel-caption" style="z-index:2;">
+                        <div class="text-start" style="position:relative; z-index:3;">
+                            <h5 class="carousel-title mb-2">The Red Shield Youth Center is a place for your kids.</h5>
+                            <p class="carousel-subtitle mb-3">A place to laugh. A place to learn. A place to grow. A place to belong.</p>
+                            <div><a href="https://give.virginiasalvationarmy.org/give/473302/#!/donation/checkout" class="btn btn-primary me-2">SUPPORT RVA YOUTH</a></div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+
+            <div class="carousel-item">
+                <div class="position-relative d-none d-md-block w-100" style="aspect-ratio: 1300/508; overflow: hidden;"><img class="slide-thumbnail" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/9e84ce06-6961-407d-bc84-dd0815b20b78_Kids+running+in+gym.jpg" alt="Dedicated to #DoingTheMostGood" style="width:100%; height:100%; object-fit:cover;" loading="lazy" /><div class="bg-photo-overlay bg-opacity-60" style="position: absolute; inset: 0; z-index: 0; pointer-events: none;"></div></div><div class="position-relative d-block d-md-none w-100" style="aspect-ratio: 500/425; overflow: hidden;"><img class="slide-thumbnail" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/9e84ce06-6961-407d-bc84-dd0815b20b78_Kids+running+in+gym.jpg" alt="Dedicated to #DoingTheMostGood" style="width:100%; height:100%; object-fit:cover;" loading="lazy" /><div class="bg-photo-overlay bg-opacity-60" style="position: absolute; inset: 0; z-index: 0; pointer-events: none;"></div></div>
+                
+                    <div class="carousel-caption" style="z-index:2;">
+                        <div class="text-center" style="position:relative; z-index:3;">
+                            <h5 class="carousel-title mb-2">Dedicated to #DoingTheMostGood</h5>
+                            <p class="carousel-subtitle mb-3">We are #BetterTogether. We are #PeoplePowered. We are #RichmondRVA</p>
+                            <div><a href="https://give.virginiasalvationarmy.org/give/473302/#!/donation/checkout" class="btn btn-primary me-2">EMPOWER RVA YOUTH</a></div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+                        </div>
+                        
+        <div class="carousel-control-container rounded-bottom d-flex align-items-center justify-content-between" id="carouselControlContainer-carousel-8a80806d863be43201865b9ad98703fc" style="display:flex; gap:1rem; padding:0.75rem 1rem;">
+            <button id="prevBtn-carousel-8a80806d863be43201865b9ad98703fc" class="carousel-control-prev hide" type="button" data-bs-target="#carousel-8a80806d863be43201865b9ad98703fc" data-bs-slide="prev" aria-label="Previous" style="pointer-events:auto;">
+                <span class="material-symbols-outlined">arrow_back</span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+
+            <div class="carousel-indicators" id="carouselIndicators-carousel-8a80806d863be43201865b9ad98703fc" style="display:flex; gap:0.5rem; align-items:center;">
+                <button type="button" data-bs-target="#carousel-8a80806d863be43201865b9ad98703fc" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+<button type="button" data-bs-target="#carousel-8a80806d863be43201865b9ad98703fc" data-bs-slide-to="1"  aria-label="Slide 2"></button>
+<button type="button" data-bs-target="#carousel-8a80806d863be43201865b9ad98703fc" data-bs-slide-to="2"  aria-label="Slide 3"></button>
+            </div>
+
+            <button id="nextBtn-carousel-8a80806d863be43201865b9ad98703fc" class="carousel-control-next" type="button" data-bs-target="#carousel-8a80806d863be43201865b9ad98703fc" data-bs-slide="next" aria-label="Next" style="pointer-events:auto;">
+                <span class="material-symbols-outlined">arrow_forward</span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    
+                    </div>
+                </section>
+        
+        
+    
+    
+	<h5>The Mission</h5>
+	<p>
+	Our mission is to enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens.
+</p>
+	<h2>The Vision</h2>
+	<p>
+	Our vision is to provide a world-class experience that assures success is within reach of every young person who enters our doors, with all members on track to graduate from high school with a plan for the future, demonstrating good character and citizenship, and living a healthy lifestyle.
+</p>
+	<div class="py-3"></div>
+	<h2>The Plan</h2>
+	<p>
+	Our programs weave together academics, enrichment, recreation and character formation. By&nbsp;promising a brighter future for our youth and making a commitment to our&nbsp;community, we’re healing lives, inspiring leaders for life, and creating a path to successful careers.
+</p>
+	<p>
+	We strive to develop strong citizens who raise families without barriers, live hope-filled lives and give back to their community.
+</p>
+	<div class="py-3"></div>
+	<h2>Events</h2>
+	<p>
+	Check out our <a href="https://cvac.salvationarmypotomac.org/centralvirginia/allevents/" target="_blank">upcoming events</a> and a look back at <a href="https://cvac.salvationarmypotomac.org/centralvirginia/past-events" target="_blank">past events</a> to learn about everything from our annual Run for Hope fundraiser to National Night Out.
+</p>
+	<div class="py-3"></div>
+	<div class="bg-white rounded p-4 mb-4"><h2>The Mission</h2>
+
+<p>
+	Our mission is to enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens.
+</p>
+
+<h2>&nbsp;</h2>
+
+<h2>The Vision</h2>
+
+<p>
+	Our vision is to provide a world-class experience that assures success is within reach of every young person who enters our doors, with all members on track to graduate from high school with a plan for the future, demonstrating good character and citizenship, and living a healthy lifestyle.
+</p>
+
+<h2>&nbsp;</h2>
+
+<h2>The Plan</h2>
+
+<p>
+	Our programs weave together academics, enrichment, recreation and character formation. By&nbsp;promising a brighter future for our youth and making a commitment to our&nbsp;community, we’re healing lives, inspiring leaders for life, and creating a path to successful careers.
+</p>
+
+<p>
+	We strive to develop strong citizens who raise families without barriers, live hope-filled lives and give back to their community.
+</p>
+
+<h2>&nbsp;</h2>
+
+<h2>Events</h2>
+
+<p>
+	Check out our <a href="https://cvac.salvationarmypotomac.org/centralvirginia/allevents/" target="_blank">upcoming events</a> and a look back at <a href="https://cvac.salvationarmypotomac.org/centralvirginia/past-events" target="_blank">past events</a> to learn about everything from our annual Run for Hope fundraiser to National Night Out.
+</p>
+
+<p>
+	&nbsp;
+</p>
+
+<div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-6">
+			<div class="content">
+				<h2>Follow Us @SalArmyRVARSYC</h2>
+			</div>
+		</div>
+
+		<div class="col col-md-6">
+			<div class="content">
+				<h2>Support and Empower Youth</h2>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-2">
+		<div class="col col-md-6">
+			<div class="content">
+				<p>
+					<a href="https://www.facebook.com/SalArmyRVARSYC" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/bb525a1d-751f-44cc-aa7d-b9b216bc35e1_Facebook_icon.svg" style="width: 96.9922px; height: 96.6602px;"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/salarmyrvarsyc" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/3446976a-1678-47cb-a69f-afeaecda4b0a_Instagram+icon.png" style="width: 96.9922px; height: 96.6602px;"></a>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-6">
+			<div class="content">
+				<p>
+					<strong><span class="btn btn-solid btn-red"><a href="https://www.classy.org/give/473302/#!/donation/checkout" target="">Donate and support youth today</a>!</span></strong>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<h2>&nbsp;</h2></div>
+	<div class="accordion my-3" id="accordion-8a8080cc">
+    
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="heading-8a8080cc-1">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a8080cc-1" aria-expanded="false" aria-controls="collapse-8a8080cc-1">
+        About Our Youth Program, A Place Where Your Kids Belong
+      </button>
+    </h2>
+    <div id="collapse-8a8080cc-1" class="accordion-collapse collapse" aria-labelledby="heading-8a8080cc-1" data-bs-parent="#accordion-8a8080cc">
+      <div class="accordion-body">
+        <p>
+	The Salvation Army Central Virginia Red Shield Youth Center&nbsp;is a place for your kids to laugh. A place to learn. A place to grow. A place to belong.
+</p>
+
+<p>
+	Our programming focuses on our core program areas of&nbsp;education, character development, health and lifestyle, arts, morality, and sports.
+</p>
+
+<p>
+	After school, children have a designated environment to continue their education and work on homework. Before breaking into recreational programs, children receive a nutritious snack and do devotionals as a group.
+</p>
+
+<p>
+	Our Summer Day Camp is designed to prevent summer learning loss.&nbsp;Summer learning loss stacks up from year to year, broadening the achievement gap between lower- and higher-income youth. We offer developmentally appropriate, project-based learning materials to help keep children educated and engaged throughout the summer.
+</p>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="heading-8a8080cc-2">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a8080cc-2" aria-expanded="false" aria-controls="collapse-8a8080cc-2">
+        2025-2026 After-School Program
+      </button>
+    </h2>
+    <div id="collapse-8a8080cc-2" class="accordion-collapse collapse" aria-labelledby="heading-8a8080cc-2" data-bs-parent="#accordion-8a8080cc">
+      <div class="accordion-body">
+        <div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-6">
+			<div class="content">
+				<p style="text-align: center;">
+					<a href="https://online.traxsolutions.com/southernusasalvationarmy/richmond#/dashboard" target=""><strong><span class="btn btn-solid btn-red">2025-2026&nbsp;AFTER-SCHOOL PROGRAM<br>
+					REGISTER TODAY (AGES 6-18)</span></strong></a>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-6">
+			<div class="content">
+				<p style="text-align: center;">
+					<strong><span class="btn btn-solid btn-gold"><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/0364e194-1ad3-41cd-ac7c-2749cb79d83c_RSYC+Afterschool+Program+Flyer+Youth+and+Teen.pdf">VIEW 2025-2026 AFTER-SCHOOL FLYER<br>
+					(for children and teens of all interests)</a></span></strong><br>
+					&nbsp;
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-2">
+		<div class="col col-md-6">
+			<div class="content">
+				<p>
+					<span style="font-size:18px;"><span style="color:#111111;"><b>OUR YOUTH CENTER IS A SAFE PLACE FOR YOUR CHILD TO</b></span></span><strong><span style="font-size:18px;"></span></strong>
+				</p>
+
+				<ul>
+					<li><span style="color:#22b573;"><span style="font-size:20px;"><strong>BELONG</strong></span></span> with their community of peers</li>
+					<li><span style="color:#4daee2;"><span style="font-size:20px;"><strong>THRIVE</strong></span></span> socially and develop interpersonal skills</li>
+					<li><span style="color:#4daee2;"><span style="font-size:20px;"></span></span><span style="color:#f8991d;"><span style="font-size:20px;"><strong>LEARN</strong></span></span><span style="color:#4daee2;"><span style="font-size:20px;"><strong> </strong></span></span>new concepts and grow in their academic confidence</li>
+					<li><span style="color:#005788;"><span style="font-size:20px;"><strong>NOURISH</strong></span></span><strong> </strong>their bodies (daily meal provided)</li>
+				</ul>
+
+				<p>
+					<span style="font-size:18px;"><span style="color:#111111;"></span></span><span style="font-size:18px;"><span style="color:#111111;"><b>PROGRAMS TO EMPOWER AND INSPIRE INCLUDE</b></span></span>
+				</p>
+
+				<ul>
+					<li><span style="color:#ed1c2b;"></span>STEM lab equipped with 3D printers</li>
+					<li>Music recording and production</li>
+					<li>Team sports</li>
+					<li>Rec leagues (pickleball, dodgeball, basketball)</li>
+					<li>Money Matters</li>
+					<li>Life Empowerment</li>
+					<li>Swim lessons provided by <a href="https://swimrichmond.org/" target="_blank">SwimRVA</a></li>
+					<li>Homework help</li>
+					<li>College prep</li>
+				</ul>
+
+				<p>
+					<strong>FOLLOW US ON FACEBOOK AND INSTAGRAM @SALARMYRVARSYC</strong>
+				</p>
+
+				<p>
+					<strong><a href="https://www.facebook.com/SalArmyRVA" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/bb525a1d-751f-44cc-aa7d-b9b216bc35e1_Facebook_icon.svg" style="width: 59.9902px; height: 59.9902px;"></a>&nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/salarmyrva/" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/3446976a-1678-47cb-a69f-afeaecda4b0a_Instagram+icon.png" style="width: 59.9902px; height: 60px;"></a></strong>
+				</p>
+
+				<ul>
+				</ul>
+			</div>
+		</div>
+
+		<div class="col col-md-6">
+			<div class="content">
+				<p>
+					<font color="#ed1c2b"><span style="font-size: 16px;"></span></font><span style="font-size:18px;"><span style="color:#111111;"></span></span>
+				</p>
+
+				<p>
+					<span style="font-size:18px;"><span style="color:#111111;"><b>CORE PROGRAM AREAS</b></span></span>
+				</p>
+
+				<ol>
+					<li>Education and Career Development</li>
+					<li>Character and Leadership Development</li>
+					<li>Health and Life Skills</li>
+					<li>The Arts, Sports</li>
+					<li>Fitness and Recreation</li>
+					<li>Spiritual Development</li>
+				</ol>
+
+				<p>
+					<span style="font-size:18px;"><span style="color:#111111;"><b>AFTER-SCHOOL COSTS FOR 2025-2026</b></span></span><span style="color:#ed1c2b;"></span>
+				</p>
+
+				<ul>
+					<li><strong>AFTER-SCHOOL REGISTRATION FEE:</strong>
+<ul>
+						<li>One-time, non-refundable, $15&nbsp;registration fee.<br>
+						&nbsp;</li>
+					</ul>
+					</li>
+					<li><strong>PROGRAM FEE:</strong><ul>
+						<li>Monthly fee of $75&nbsp;per child + $25 transportation (see below)<br>
+						&nbsp;</li>
+					</ul>
+					</li>
+					<li><span style="color:#ed1c2b;"><strong>NEW IN&nbsp;2025: </strong></span>Monthly transportation fee of $25 per child<ul>
+						<li>Qualifying schools: Bellevue, Chimborazo and Henry Marsh Elementary ONLY.<br>
+						&nbsp;</li>
+					</ul>
+					</li>
+					<li><span style="color:#ed1c2b;"><strong>REMINDER: </strong></span>Camps during the school year are a separate cost. These include but are not limited to Winter Break and Spring Break Camps.</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<p>
+	&nbsp;
+</p>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="heading-8a8080cc-3">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a8080cc-3" aria-expanded="false" aria-controls="collapse-8a8080cc-3">
+        Core Program Areas
+      </button>
+    </h2>
+    <div id="collapse-8a8080cc-3" class="accordion-collapse collapse" aria-labelledby="heading-8a8080cc-3" data-bs-parent="#accordion-8a8080cc">
+      <div class="accordion-body">
+        <div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-4">
+			<div class="content">
+				<p>
+					<span class="btn btn-solid btn-blue"><strong>EDUCATION &amp; CAREER</strong><br>
+					Programs in Education and Career Development enable youth to strengthen educational disciplines, critical thinking to daily occurrences, and embrace technology to achieve across a variety of career fields.</span>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4">
+			<div class="content">
+				<p>
+					<span class="btn btn-solid btn-gold"><strong>HEALTH &amp; LIFE SKILLS</strong><br>
+					Programs in Health and Life Skills support young people’s ability to engage in positive behaviors that nurture personal well-being, align with goal setting, and enable them to live successfully as self-sufficient adults.&nbsp;</span>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4">
+			<div class="content">
+				<p>
+					<span class="btn btn-solid btn-green"><strong>CHARACTER &amp; LEADERSHIP</strong><br>
+					Character &amp; leadership development programs empower youth to&nbsp;support and influence their friends&nbsp;and community, develop respect and appreciation for others, foster a strong self esteem and participate in the democratic process.</span>
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-2">
+		<div class="col col-md-4">
+			<div class="content">
+				<p>
+					<span class="btn btn-solid btn-cream"><strong>MORALITY &amp; VALUES</strong><br>
+					Morality &amp; values programs provide youth with the opportunity to learn about and develop their relationship with God and how faith plays a role in everyday life.</span>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4">
+			<div class="content">
+				<p>
+					<span class="btn btn-solid btn-red"><strong>SPORTS &amp; FITNESS</strong><br>
+					Sports and fitness programs develop a positive experience and association around fitness and develop critical&nbsp;social and stress management skills.</span>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4">
+			<div class="content">
+				<p>
+					<span class="btn btn-solid btn-navy"><strong>ARTS</strong><br>
+					Arts programs allow youth to harness their creativity through multi-platform use and knowledge including visual arts, crafts, performing arts and creative writing.</span>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<p>
+	&nbsp;
+</p>
+
+      </div>
+    </div>
+  </div>
+    </div>
+	<!-- Theater Space -->
+	<!-- Mission, Vision, Plan -->
+	<section id="Free-Text-Area" class="migration-component py-5">
+    <div class="container">
+        <div class="bg-white rounded p-4 mb-4"><h2>The Mission</h2>
+
+<p>
+	Our mission is to enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens.
+</p>
+
+<h2>&nbsp;</h2>
+
+<h2>The Vision</h2>
+
+<p>
+	Our vision is to provide a world-class experience that assures success is within reach of every young person who enters our doors, with all members on track to graduate from high school with a plan for the future, demonstrating good character and citizenship, and living a healthy lifestyle.
+</p>
+
+<h2>&nbsp;</h2>
+
+<h2>The Plan</h2>
+
+<p>
+	Our programs weave together academics, enrichment, recreation and character formation. By&nbsp;promising a brighter future for our youth and making a commitment to our&nbsp;community, we’re healing lives, inspiring leaders for life, and creating a path to successful careers.
+</p>
+
+<p>
+	We strive to develop strong citizens who raise families without barriers, live hope-filled lives and give back to their community.
+</p>
+
+<h2>&nbsp;</h2>
+
+<h2>Events</h2>
+
+<p>
+	Check out our <a href="https://cvac.salvationarmypotomac.org/centralvirginia/allevents/" target="_blank">upcoming events</a> and a look back at <a href="https://cvac.salvationarmypotomac.org/centralvirginia/past-events" target="_blank">past events</a> to learn about everything from our annual Run for Hope fundraiser to National Night Out.
+</p>
+
+
+
+<div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-6">
+			<div class="content">
+				<h2>Follow Us @SalArmyRVARSYC</h2>
+			</div>
+		</div>
+
+		<div class="col col-md-6">
+			<div class="content">
+				<h2>Support and Empower Youth</h2>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-2">
+		<div class="col col-md-6">
+			<div class="content">
+				<p>
+					<a href="https://www.facebook.com/SalArmyRVARSYC" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/bb525a1d-751f-44cc-aa7d-b9b216bc35e1_Facebook_icon.svg" style="width: 96.9922px; height: 96.6602px;" class="img-fluid d-block mx-auto my-3" loading="lazy"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/salarmyrvarsyc" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/3446976a-1678-47cb-a69f-afeaecda4b0a_Instagram+icon.png" style="width: 96.9922px; height: 96.6602px;" class="img-fluid d-block mx-auto my-3" loading="lazy"></a>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-6">
+			<div class="content">
+				<p>
+					<strong><span class="btn btn-solid btn-red"><a href="https://www.classy.org/give/473302/#!/donation/checkout" target="">Donate and support youth today</a>!</span></strong>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<h2>&nbsp;</h2></div>
+    </div>
+</section>
+		<div class="col col-md-6 row row-1">
+			<h2>Follow Us @SalArmyRVARSYC</h2>
+			<p>
+					<a href="https://www.facebook.com/SalArmyRVARSYC" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/bb525a1d-751f-44cc-aa7d-b9b216bc35e1_Facebook_icon.svg" style="width: 96.9922px; height: 96.6602px;" class="img-fluid d-block mx-auto my-3" loading="lazy"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/salarmyrvarsyc" target="_blank"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/3446976a-1678-47cb-a69f-afeaecda4b0a_Instagram+icon.png" style="width: 96.9922px; height: 96.6602px;" class="img-fluid d-block mx-auto my-3" loading="lazy"></a>
+				</p>
+		</div>
+		<div class="col col-md-6 row row-1">
+			<h2>Support and Empower Youth</h2>
+			<p>
+					<strong><span class="btn btn-solid btn-red"><a href="https://www.classy.org/give/473302/#!/donation/checkout" target="">Donate and support youth today</a>!</span></strong>
+				</p>
+		</div>
+	undefined
+	<!-- Accordion -->
+</div>
