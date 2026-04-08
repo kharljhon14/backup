@@ -1,4 +1,4 @@
-{{ include modules/hero }}
+
 {{ include modules/map }}
 {{ include modules/services }}
 {{ include modules/stats }}
